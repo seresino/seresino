@@ -1,16 +1,19 @@
-## Hi there 👋
+## About
 
-<!--
-**seresino/seresino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm Ruby Seresin
+- Junior Full Stack Developer
+- rubyseresin@gmail.com
 
-Here are some ideas to get you started:
+## Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Bachelors, University of Oxford
+- PGCert Computer Science, University of Bath
+- Software Engineering Bootcamp, Makers Academy
+
+## Skills
+
+- Education-led experience with C, Java and Ruby
+- Python and Flask
+- JavaScript and Svelte/SvelteKit Frameworks
+- Currently learning Typescript
+- Experience in web design using Figma
