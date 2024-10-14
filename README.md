@@ -11,7 +11,7 @@
 
 ## Skills
 
-- Education-led experience with C, Java and Ruby
+- Education-driven experience in C, Java and Ruby
 - Python and Flask
 - JavaScript and Svelte/SvelteKit Frameworks
 - SQL/NoSQL databases
