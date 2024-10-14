@@ -14,5 +14,5 @@
 - Education-led experience with C, Java and Ruby
 - Python and Flask
 - JavaScript and Svelte/SvelteKit Frameworks
+- SQL/NoSQL databases
 - Currently learning Typescript
-- Experience in web design using Figma
