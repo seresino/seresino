@@ -1,6 +1,5 @@
 ## About
 
-- I'm Ruby Seresin
 - Junior Full Stack Developer
 - rubyseresin@gmail.com
 
