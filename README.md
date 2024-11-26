@@ -1,6 +1,5 @@
 ## About
 
-- Junior Full Stack Developer
 - rubyseresin@gmail.com
 
 ## Education
